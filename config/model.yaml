@@ -1,0 +1,12 @@
+target:
+  name: reaches_temperature_threshold
+  threshold_celsius: null
+
+training:
+  test_size: 0.2
+  random_state: 42
+
+lightgbm:
+  objective: binary
+  n_estimators: 300
+  learning_rate: 0.05

@@ -1,0 +1,1 @@
+"""LightGBM weather prediction model."""

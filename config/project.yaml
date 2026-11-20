@@ -1,0 +1,7 @@
+project:
+  name: weather-intelligence-ai
+  timezone: UTC
+  data_dir: data
+  target:
+    description: Probability that daily maximum temperature reaches a threshold.
+    threshold_celsius: null

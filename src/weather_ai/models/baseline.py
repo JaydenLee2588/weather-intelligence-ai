@@ -1,0 +1,1 @@
+"""Baseline weather prediction model."""
